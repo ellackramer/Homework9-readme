@@ -1,0 +1,24 @@
+{
+    "name": "Homework9-readme",
+    "version": "1.0.0",
+    "description": "Application takes data input by the user to create a readme file.",
+    "main": "index.js",
+    "dependencies": {
+      "fs": "0.0.1-security",
+      "inquirer": "^8.1.2"
+    },
+    "devDependencies": {},
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/ellackramer/Homework9-readme.git"
+    },
+    "author": "Ella Kramer",
+
+    "bugs": {
+      "url": "https://github.com/ellackramer/Homework9-readme/issues"
+    },
+    "homepage": "https://github.com/ellackramer/Homework9-readme"
+  }
