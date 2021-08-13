@@ -92,7 +92,7 @@ function createREADMEFile(input) {
     completeREADME.push(readmeDescription);
     
     
-    tableOfContents = `${tocHead}\n* [Installation](#installation)\n* [Usage](#usage)\n* [Contribution](#contribution)\n* [Tests](#tests)\n* [License](#license)\n* [Questions](#questions)\n`;
+    tableOfContents = `${tocHead}\n* [Installation](#installation)\n* [Usage](#usage)\n* [Contribution](#contribution)\n* [Tests](#tests)\n*  [Questions](#questions)\n`;
     completeREADME.push(tableOfContents);
     
     
